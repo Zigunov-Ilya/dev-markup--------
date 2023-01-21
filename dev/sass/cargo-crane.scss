@@ -1,0 +1,41 @@
+.cooperation {
+    max-width: 1820px;
+    width: 1820px;
+    height: 1265px;
+    margin: auto;
+    background: linear-gradient(0deg, #363A4D, #363A4D), #F7F7F7;
+    border-radius: 20px;
+}
+
+.cooperation .cooperation_section {
+    margin-top: 92px;
+}
+
+.cooperation_block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.cooperation_info {
+    max-width: 555px;
+    width: 100%;
+}
+
+.cooperation_info p:nth-child(1) {
+    margin-top: 25px;
+}
+
+.cooperation_info p {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.56;
+    margin: 0 0 28px 10px;
+    list-style: circle;
+}
+section.cargo-crane {
+    margin-top: 100px;
+    margin-left: -592px;
+    position: relative;
+}

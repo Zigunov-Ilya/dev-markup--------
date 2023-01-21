@@ -1,0 +1,40 @@
+.about-company {
+    margin-bottom: 97px;
+}
+
+.template-title--about-company {
+    flex-direction: column;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.template-title {
+    color: #fff;
+    position: relative;
+    padding-bottom: 19px;
+    margin-bottom: 49px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.template-title--about-company .template-border-decoration {
+    margin: 19px 0 44px;
+}
+
+.template-border-decoration {
+    width: 85px;
+    height: 2px;
+    background: #89C249;
+    display: inline-flex;
+    margin: 0 0 11px 10px;
+}
+
+
+.about-company h3 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 124.5%;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

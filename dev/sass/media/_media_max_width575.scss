@@ -1,3 +1,88 @@
 @media screen and (max-width: 575px) {
     
 }
+
+@media only screen and (max-width: 578.98px) {
+    .about-company p {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        text-align: center;
+        width: 385px;
+        margin-left: -41px;
+    }
+
+    .about-company h3 {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 124.5%;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        margin-left: 54px;
+        width: 200px;
+    }
+
+    .template-title--about-company .template-border-decoration {
+        margin: 14px 111px 44px;
+    }
+
+    .img-about-company {
+        position: absolute;
+        margin-top: 436px;
+        margin-left: -208px;
+        max-width: 390px;
+    }
+    .forms-man__input {
+        width: 454px;
+        height: 56px;
+        padding: 19px 105px 18px 20px;
+        border-radius: 10px;
+        float: left;
+        margin-top: 3px;
+    }
+
+    .about-company p {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        text-align: center;
+        width: 428px;
+        margin-left: -15px;
+    }
+
+    .forms-man__input#man-text__weight {
+        margin-left: 0px;
+    }
+
+    .forms-man__input#man-text__weight-second {
+        margin-left: 0px;
+        margin-top: -4px;
+    }
+
+    #upload-btn {
+        max-width: 457px;
+        float: right;
+        margin-right: 186px;
+    }
+
+    .about-company h3 {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 124.5%;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        margin-left: 104px;
+        width: 200px;
+    }
+
+    .template-title--about-company .template-border-decoration {
+        margin: 14px 165px 44px;
+    }
+
+    .img-about-company {
+        position: absolute;
+        margin-top: 396px;
+        margin-left: -237px;
+        max-width: 427px;
+    }
+}

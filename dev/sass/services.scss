@@ -1,0 +1,231 @@
+a.btn.btn-services {
+    background-repeat: no-repeat;
+    background-size: 0 100%;
+    border: 1px solid #E58D35;
+    border-radius: 90px;
+    color: #Fff;
+    padding-top: 10px;
+}
+
+.services .slick-dots {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+h3.h3-sevices {
+    margin-bottom: 2;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 124.5%;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 72px;
+}
+
+.services-title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.services-title::before {
+    content: "";
+    width: 85px;
+    height: 2px;
+    background: #E58D35;
+    position: absolute;
+    margin-left: -43px;
+    margin-top: 59px;
+}
+
+.slick-initialized .slick-slide.slider-item {
+    margin: 0 25px;
+    padding: 0 20px 37px;
+    border-radius: 20px;
+    overflow: hidden;
+    max-width: 360px;
+    height: 482px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    background: #363A4D;
+}
+
+.services {
+    background: #363A4D;
+    border-radius: 20px;
+    padding: 90px 0 110px;
+    margin-bottom: 97px;
+    ;
+}
+
+
+.master-tao .slick-prev {
+    position: absolute;
+    top: 50%;
+    left: 83px;
+    transform: translate(0, -50%);
+    z-index: 5;
+    height: 30px;
+    width: 30px;
+    transform: rotate(-44deg);
+    border: 3px solid #6C6F7F;
+    border-right-style: none;
+    border-bottom-style: none;
+    background: none;
+    font-size: 0;
+}
+
+.master-tao .slick-next {
+    position: absolute;
+    top: 50%;
+    right: 104px;
+    transform: translate(0, -50%);
+    z-index: 5;
+    height: 30px;
+    width: 30px;
+    transform: rotate(135deg);
+    border: 3px solid #6C6F7F;
+    border-right-style: none;
+    border-bottom-style: none;
+    background: none;
+    font-size: 0;
+}
+
+.services .template-title h3 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 124.5%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+
+
+.btn-orange--services {
+    padding: 14px 30px;
+}
+
+.template-title-five {
+    padding-top: 92px;
+    text-align: center;
+    position: relative;
+}
+
+.template-title-five p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.24;
+}
+
+.template-title-five h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.24;
+    position: relative;
+    text-transform: uppercase;
+}
+
+
+
+.template-title-five::before {
+    content: "";
+    width: 85px;
+    height: 2px;
+    background: #89C249;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    position: absolute;
+    top: 201px;
+    left: 769px;
+}
+
+.services .slick-next {
+    position: absolute;
+    top: 227px;
+    right: -54px;
+    transform: translate(0, -50%);
+    z-index: 5;
+    height: 30px;
+    width: 30px;
+    transform: rotate(135deg);
+    border: 3px solid #6C6F7F;
+    border-right-style: none;
+    border-bottom-style: none;
+    background: none;
+    font-size: 0;
+}
+
+.services .slick-prev {
+    position: absolute;
+    top: 227px;
+    left: -54px;
+    transform: translate(0, -50%);
+    z-index: 5;
+    height: 30px;
+    width: 30px;
+    transform: rotate(-44deg);
+    border: 3px solid #6C6F7F;
+    ;
+    border-right-style: none;
+    border-bottom-style: none;
+    background: none;
+    font-size: 0;
+}
+
+.services-title::before {
+    content: "";
+    width: 85px;
+    height: 2px;
+    background: #E58D35;
+    position: absolute;
+    margin-left: -43px;
+    margin-top: 59px;
+}
+
+.h3-sevices {
+    margin-bottom: 2;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 124.5%;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 72px;
+}
+
+.btn-services {
+    border: 1px solid #E58D35;
+    border-radius: 90px;
+    padding-top: 10px;
+    color: #fff;
+}
+
+.services .template-title h2 {
+    width: 841px;
+    margin-left: 21px;
+    margin-top: -11px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 124.5%;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.services .template-title::before {
+    content: "";
+    width: 85px;
+    height: 2px;
+    background: rgb(229, 141, 53);
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin: 0px 155px 44px;
+}
+
+.services-title {
+    text-align: center;
+    text-transform: uppercase;
+}

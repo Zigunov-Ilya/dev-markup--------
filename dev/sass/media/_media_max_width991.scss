@@ -1,0 +1,284 @@
+@media only screen and (max-width: 991.98px) {
+
+    .container.first-screen__container-titles {
+        min-height: 300px;
+        padding-left: 84px;
+    }
+
+    .footer-nav {
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        display: none;
+    }
+
+    .col-12.col-lg-3.foot-col {
+        text-align: center;
+    }
+
+    .footer-social {
+        /* align-items: center; */
+        justify-content: center;
+    }
+
+    .faq .form {
+        max-width: 390px;
+        width: 100%;
+        height: 589px;
+        margin: 57px 0 0 34px;
+        /* margin-left: 880px; */
+        box-shadow: 5px 15px 40px rgb(11 24 97 / 32%);
+        border-radius: 20px;
+        display: flex;
+        background: #363A4D;
+        flex-direction: column;
+        align-content: center;
+        flex-wrap: wrap;
+        padding: 38px 45px 38px 40px;
+        margin-top: 10px;
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        /* left: 50%; */
+        margin-left: -171px;
+    }
+
+    .cooperation {
+        max-width: 958px;
+        /* width: 1820px; */
+        width: 100%;
+        /* height: 1265px; */
+        height: 1947px;
+        margin: auto;
+        background: linear-gradient(0deg, #363A4D, #363A4D), #F7F7F7;
+        /* border-radius: 20px; */
+        margin-left: 421px;
+        /* margin-bottom: 163px; */
+    }
+
+    section.cargo-crane {
+        margin-top: 100px;
+        margin-left: -592px;
+        position: relative;
+        /* margin-bottom: 998px; */
+    }
+
+    .template-title-five::before {
+        content: "";
+        width: 85px;
+        height: 2px;
+        background: #89C249;
+        /* margin-bottom: -173px; */
+        margin-left: -334px;
+        /* margin-top: 111px; */
+        position: absolute;
+        /* top: 201px; */
+        /* left: 769px; */
+    }
+
+    img.cargo-crane-png {
+        margin-top: -47px;
+    }
+
+    div#two-info {
+        position: absolute;
+        margin-top: 812px;
+    }
+
+    div#one-info {
+        padding-top: -283px;
+        position: absolute;
+        margin-top: 388px;
+    }
+
+    img.cargo-truck {
+        margin-top: 370px;
+    }
+
+    .template-title-four::before {
+        content: "";
+        width: 85px;
+        height: 2px;
+        background: #E58D35;
+        position: absolute;
+        margin-left: -43px;
+        margin-top: 68px;
+        left: 50%;
+    }
+
+    .forms-man .template-title::before {
+        content: "";
+        width: 85px;
+        height: 2px;
+        background: #89C249;
+        margin-top: 92px;
+        margin-left: -120px;
+        display: block;
+        left: 50%;
+        margin-left: -43.5px;
+    }
+
+    .bg-gray {
+        height: 634px;
+        background-color: #363A4D;
+        padding: 58px 154px 142px 152px;
+        margin-bottom: 142px;
+    }
+
+    .delivery-title::before {
+        content: "";
+        width: 85px;
+        height: 2px;
+        background: #89C249;
+        position: absolute;
+        margin-top: 79px;
+        margin-left: 356px;
+        left: 50%;
+        margin-left: -44.5px;
+    }
+
+    .advantages-slider__item-content {
+        margin: 53px auto 0;
+        text-align: center;
+        max-width: 263px;
+    }
+
+    .forms-man .template-title h2 {
+        width: 556px;
+        margin-top: 97px;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 124.5%;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        margin-bottom: 0;
+        margin-left: 0px;
+    }
+
+    .img-about-company {
+        position: absolute;
+        margin-top: 334px;
+        margin-left: -213px;
+        max-width: 427px;
+    }
+
+    .about-company h3 {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 124.5%;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        margin-left: 373px;
+        width: 200px;
+    }
+
+    .template-title--about-company .template-border-decoration {
+        margin: 14px 431px 44px;
+    }
+
+    .about-company p {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        text-align: center;
+        width: 331px;
+        margin-left: 319px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 149.5%;
+        text-align: justify;
+        color: #FFFFFF;
+    }
+
+
+    section.faq {
+        margin-top: 451px;
+        margin-bottom: 650px;
+    }
+
+    .about-company {
+        margin-bottom: 97px;
+        position: relative;
+    }
+
+    section {
+        margin: 0 0 55px;
+        padding: 0;
+    }
+
+    .first-screen-slider__title {
+        font-size: 32px;
+    }
+
+    .first-screen-slider__subtitle {
+        font-size: 16px;
+    }
+
+    .container.advantages-container {
+        margin-left: -27px;
+    }
+
+    div#navbarSupportedContent {
+        background: #363A4D;
+        box-shadow: 14px 22px 40px rgb(30 35 66 / 28%);
+        padding: 37px 40px 60px 40px;
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 991.98px) {
+
+    .first-screen-slider__title {
+        font-size: 32px;
+    }
+
+    button.nav-btn {
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 146%;
+        color: #FFFFFF;
+        background: #E58D35;
+        border-radius: 90px;
+        padding: 21px 33px;
+        display: inline-flex;
+        padding: 14px 27px;
+        border: none;
+        margin-left: -86px;
+        position: absolute;
+        left: 50%;
+    }
+
+
+
+    .first-screen-slider__subtitle {
+        font-size: 16px;
+    }
+
+    .first-screen__container-titles {
+        margin-left: 52px;
+    }
+
+
+    .container.first-screen__container-titles {
+        margin-left: 55px;
+    }
+}
+
+@media only screen and (max-width: 987.98px) {
+    .delivery-title::before {
+        content: "";
+        width: 85px;
+        height: 2px;
+        background: #89C249;
+        position: absolute;
+        margin-left: -43px;
+        margin-top: 112px;
+    }
+}
+
+@media only screen and (max-width: 925.98px) {
+    .slider-dilivery {
+        max-width: 390px;
+    }
+}

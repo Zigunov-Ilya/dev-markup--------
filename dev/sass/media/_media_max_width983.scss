@@ -1,0 +1,117 @@
+@media only screen and (max-width: 983.98px) {
+    img.photo-man {
+        display: none;
+    }
+
+    .forms-man .forms-man__container {
+        width: 966px;
+        height: 815px;
+        margin: 0 auto;
+    }
+
+    .forms-man__input {
+        width: 867px;
+        height: 56px;
+        padding: 19px 105px 18px 20px;
+        border-radius: 10px;
+        float: right;
+        margin-top: 3px;
+    }
+
+    .man-text#man-text-weight__first {
+        margin-left: 2px;
+        margin-top: 9px;
+    }
+
+    .man-text#man-text__mt {
+        margin-bottom: 20px;
+    }
+
+    label#horns-label {
+        padding-bottom: 64px;
+    }
+
+    label#checkbox-label {
+        padding-bottom: 65px;
+    }
+
+    .forms-man {
+        background-color: #282B38;
+        height: 1193px;
+        margin: 0 -267px;
+    }
+
+    .forms-man__container {
+        width: 966px;
+        height: 815px;
+        margin-left: 205px;
+    }
+
+    .label-checkbox#checkbox-label {
+        position: absolute;
+        right: 814px;
+        bottom: 287px;
+    }
+
+    .label-checkbox {
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 126%;
+        color: #FFFFFF;
+        display: inline-block;
+        position: absolute;
+        right: 702px;
+        bottom: 250px;
+    }
+
+    .template-title h2 {
+        width: 569px;
+        margin-top: 97px;
+        margin-left: 25px;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 124.5%;
+        text-align: center;
+        text-transform: uppercase;
+        margin-bottom: 0;
+    }
+
+    .template-title::before {
+        content: "";
+        width: 85px;
+        height: 2px;
+        background: #89C249;
+        margin-top: 89px;
+        margin-left: -120px;
+        position: absolute;
+    }
+
+    .man-text#man-text__mt {
+        margin-bottom: 8px;
+    }
+
+    .col-12.col-lg-6.checkbox-form__one {
+        margin-top: -28px;
+    }
+
+    .col-12.col-lg-6.user-weight__one {
+        margin-top: -24px;
+    }
+
+    .col-12.col-lg-6.forms-two {
+        margin-top: -17px;
+    }
+
+    .col-12.col-lg-6.forms-three {
+        margin-top: -13px;
+    }
+
+    .forms-man__input#man-text__weight-second {
+        margin-left: -14px;
+        margin-top: -4px;
+    }
+
+    input.forms-man__input.forms-man__four {
+        margin-top: -3px;
+    }
+}

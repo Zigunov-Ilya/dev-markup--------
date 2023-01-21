@@ -1,0 +1,127 @@
+.navbar {
+    background-color: #282B38;
+}
+
+nav.navbar.navbar-expand-lg {
+    margin-top: 50px;
+}
+
+button.nav-btn {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 146%;
+    color: #FFFFFF;
+    background: #E58D35;
+    border-radius: 90px;
+    padding: 21px 33px;
+    display: inline-flex;
+    padding: 14px 27px;
+    border: none;
+}
+
+button.nav-btn {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 146%;
+    color: #FFFFFF;
+    background: #E58D35;
+    border-radius: 90px;
+    padding: 21px 33px;
+    display: inline-flex;
+    padding: 14px 27px;
+    border: none;
+    margin-left: 24px;
+}
+
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link.active {
+    color: rgb(255 255 255 / 90%);
+}
+
+.master-tao .navbar {
+    margin: 27px 0 40px 0;
+}
+
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-sm,
+.navbar>.container-md,
+.navbar>.container-lg,
+.navbar>.container-xl,
+.navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 139px;
+}
+
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link.active {
+    color: rgb(255 255 255 / 90%);
+    margin-left: 20px;
+    max-width: 178px;
+}
+
+#header-btn {
+    width: 171px;
+    height: 50px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 146%;
+    color: #FFFFFF;
+    background: #E58D35;
+    border-radius: 90px;
+    padding: 21px 33px;
+    display: inline-flex;
+    padding: 14px 27px;
+    border: none;
+    justify-content: space-evenly;
+    flex-direction: column-reverse;
+}
+
+
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-sm,
+.navbar>.container-md,
+.navbar>.container-lg,
+.navbar>.container-xl,
+.navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0px;
+}
+
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.master-tao {
+    color: #fff;
+    font-size: 16px;
+    line-height: 146%;
+}
+
+.master-tao .nav-item {
+    margin-right: 20px;
+}
+
+.master-tao .nav-item:last-child {
+    margin-right: 0;
+}
+
+.master-tao .navbar {
+    margin: 27px 0 40px 0;
+}
+
+.navbar-toggler-icon {
+    background-image: url(../../assets/img/navbar-togl.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: all 0.5s ease-out;
+}

@@ -1,0 +1,236 @@
+.forms-man {
+    background-color: #282B38;
+    height: 956px;
+    margin: 0 -267px;
+}
+
+.man-text {
+    min-width: 430px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 126%;
+    color: #FFFFFF;
+}
+
+.forms-man__input {
+    width: 248px;
+    height: 56px;
+    padding: 19px 105px 18px 20px;
+    border-radius: 10px;
+}
+
+.forms-man__input#man-text__weight {
+    margin-left: 30px;
+}
+
+.man-text#man-text-weight__first {
+    margin-left: 33px;
+}
+
+.forms-man__input#man-text__weight-second {
+    margin-left: -14px;
+}
+
+input#man-text__weight::placeholder {
+    width: 326px;
+}
+
+.man-text#man-text__mt {
+    margin-top: 20px;
+}
+
+.forms-man__input::placeholder {
+    color: #CBCBCB;
+}
+
+.forms-man__container {
+    width: 626px;
+    height: 597px;
+    background-color: #363A4D;
+    padding: 70px 50px 41px 50px;
+    position: relative;
+    border-radius: 20px;
+    /* margin: 0 auto; */
+    margin: 0 auto;
+    transform: translate(-33%, 0);
+}
+
+.template-title {
+    text-align: center;
+    position: relative;
+    padding-bottom: 21px;
+    margin-bottom: 55px;
+}
+
+.template-title::before {
+    content: "";
+    width: 85px;
+    height: 2px;
+    background: #89C249;
+    margin-bottom: 40px;
+    margin-left: 98px;
+    position: absolute;
+    /* top: 164px; */
+    /* left: 770px; */
+    left: 43%;
+    margin-top: 164px;
+}
+
+.man-text .input-top {
+    margin-bottom: 20px;
+}
+
+.photo-jpeg__label {
+    width: 500px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 126%;
+    /* or 19px */
+
+
+    color: #FFFFFF;
+    margin-bottom: 18px;
+}
+
+.photo-jpeg__input {
+    width: 526px;
+    height: 43px;
+    border: 1px dashed rgba(255, 255, 255, 0.26);
+    border-radius: 10px;
+}
+
+.template-title h2 {
+    width: 738px;
+    margin-top: 97px;
+    margin-left: -293px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 124.5%;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.template-title p {
+    font-size: 24px;
+    line-height: 30px;
+    margin: 6px 0 0;
+}
+
+.custom-checkbox {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background: #FFFFFF;
+    border: 1px solid #282B38;
+    border-radius: 4px;
+    vertical-align: sub;
+    margin-bottom: 14px;
+}
+
+.custom-checkbox::before {
+    content: "";
+    display: inline-block;
+    width: 12px;
+    height: 9px;
+    background-image: url(../../assets/img/galochka.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: 0.2s ease-in;
+}
+
+.form-checkbox:checked+.custom-checkbox::before {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.form-checkbox {
+    width: 0;
+    height: 0;
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.label-checkbox {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 126%;
+    color: #FFFFFF;
+    display: inline-block;
+    position: absolute;
+    right: 358px;
+    bottom: 234px;
+}
+
+.label-checkbox#checkbox-label {
+    position: absolute;
+    right: 470px;
+    bottom: 271px;
+}
+
+.check-box-form {
+    margin-top: 42px;
+}
+
+.custom-checkbox#a {
+    margin-bottom: 14px;
+}
+
+#btn-orange__forms {
+    margin-top: 26px;
+}
+
+.photo-jpeg {
+    /* margin-right: -95px; */
+    margin-left: -2px;
+}
+
+.col-12.col-lg-6.checkbox-form__one {
+    margin-top: -28px;
+    margin-left: 276px;
+}
+.label-checkbox#checkbox-label {
+    position: absolute;
+    right: 693px;
+    bottom: 282px;
+}
+.label-checkbox {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 126%;
+    color: #FFFFFF;
+    display: inline-block;
+    position: absolute;
+    right: 582px;
+    bottom: 246px;
+}
+#upload-btn {
+    max-width: 284px;
+    float: right;
+    margin-right: 0px;
+}
+ #upload-btn label {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.26;
+    color: #fff;
+    /* position: absolute; */
+    /* right: 43px; */
+    margin-left: 2px;
+}
+.photo-jpeg {
+    margin-left: 274px;
+}
+button#btn-orange__forms {
+    margin-left: -3px;
+    /* margin-right: 166px; */
+    position: absolute;
+    right: 373px;
+    margin-top: 75px;
+}

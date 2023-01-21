@@ -1,0 +1,78 @@
+@media only screen and (max-width: 395.98px) {
+    .advantages-slider.row.slick-initialized.slick-slider.slick-dotted {
+        width: 155px;
+        margin-left: -91px;
+    }
+}
+
+@media only screen and (max-width: 925.98px) {
+    .slider-dilivery {
+        max-width: 390px;
+    }
+}
+
+@media only screen and (max-width: 483.98px) {
+
+    .forms-man .forms-man__container .forms-man__input {
+        width: 281px;
+        height: 56px;
+        padding: 19px 105px 18px 20px;
+        border-radius: 10px;
+        float: right;
+        margin-top: 3px;
+    }
+    .man-text {
+        min-width: 430px;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 126%;
+        color: #FFFFFF;
+        position: relative;
+        left: 50%;
+    }
+    .forms-man .forms-man__container {
+        width: 966px;
+        height: 815px;
+        margin: 0 auto;
+        padding-right: 363px;
+    }
+    
+}
+
+@media only screen and (max-width: 651.98px) {
+    button.first-screen-slider__btn {
+        margin-left: 52px;
+    }
+}
+
+@media only screen and (max-width: 476.98px) {
+    button.first-screen-slider__btn {
+        margin-left: 9px;
+    }
+}
+
+@media only screen and (max-width: 449.98px) {
+    .first-screen__slider .slick-slide .container {
+        padding: 0 33px;
+        min-height: 405px;
+        display: flex;
+        flex-direction: column;
+        z-index: 1;
+        position: relative;
+        margin-left: -3px;
+    }
+}
+
+@media only screen and (max-width: 458.98px) {
+    .delivery-title::before {
+        content: "";
+        width: 85px;
+        height: 2px;
+        background: #89C249;
+        position: absolute;
+        margin-top: 205px;
+        margin-left: 356px;
+        left: 50%;
+        margin-left: -42.5px;
+    }
+}

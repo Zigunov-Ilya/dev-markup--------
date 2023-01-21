@@ -1,0 +1,171 @@
+@media only screen and (max-width: 606.98px) {
+    .template-title-five h2 {
+        /* font-weight: 700; */
+        /* font-size: 36px; */
+        /* line-height: 1.24; */
+        position: relative;
+        /* text-transform: uppercase; */
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 124.5%;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+
+    .template-title-five p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.24;
+    }
+
+    .cooperation {
+        max-width: 916px;
+        /* width: 1820px; */
+        width: 100%;
+        /* height: 1265px; */
+        /* height: 1947px; */
+        height: 1746px;
+        margin: auto;
+        background: linear-gradient(0deg, #363A4D, #363A4D), #F7F7F7;
+        /* border-radius: 20px; */
+        margin-left: 421px;
+        /* margin-bottom: 163px; */
+    }
+
+    .faq .form {
+        max-width: 390px;
+        width: 100%;
+        height: 589px;
+        margin: 57px 0 0 34px;
+        /* margin-left: 880px; */
+        box-shadow: 5px 15px 40px rgb(11 24 97 / 32%);
+        border-radius: 20px;
+        display: flex;
+        background: #363A4D;
+        flex-direction: column;
+        align-content: center;
+        flex-wrap: wrap;
+        padding: 38px 45px 38px 40px;
+        margin-top: 10px;
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        /* left: 50%; */
+        margin-left: -191px;
+        /* margin-right: -130px; */
+    }
+
+    .faq .template-title-four::before {
+        content: "";
+        width: 85px;
+        height: 2px;
+        background: #E58D35;
+        position: absolute;
+        margin-left: -44px;
+        margin-top: 113px;
+        left: 50%;
+    }
+
+    .about-company p {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        text-align: center;
+        width: 551px;
+        margin-left: 1px;
+    }
+
+    .about-company h3 {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 124.5%;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        margin-left: 188px;
+        width: 200px;
+    }
+
+    .template-title--about-company .template-border-decoration {
+        margin: 14px 246px 44px;
+    }
+
+    div#one-info {
+        padding-top: -283px;
+        position: absolute;
+        margin-top: 388px;
+        margin-right: 20px;
+    }
+
+    img.cargo-truck {
+        margin-top: 278px;
+    }
+
+    div#two-info {
+        position: absolute;
+        margin-top: 707px;
+        margin-right: 20px;
+    }
+}
+
+@media only screen and (max-width: 767.98px) {
+    nav.navbar {
+        padding: 0 20px;
+        min-height: 72px;
+        margin-top: -17px;
+    }
+
+    section {
+        margin: 0 0 55px;
+    }
+
+    .container.first-screen__container-titles {
+        padding-right: 131px;
+    }
+
+    button.first__screen-slider__btn {
+        margin-left: 110px;
+    }
+
+    .first-screen__slider .slick-slide {
+        border-radius: 0;
+        padding: 100px 0 90px;
+        position: relative;
+    }
+
+    .first-screen__slider .slick-slide::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(0deg, rgba(4, 5, 17, 0.6), rgba(4, 5, 17, 0.6)), url(transportation-logistics.jpg);
+    }
+
+    .first-screen__slider .slick-slide .container {
+        padding: 0 20px;
+        min-height: 405px;
+        display: flex;
+        flex-direction: column;
+        z-index: 1;
+        position: relative;
+    }
+
+    .first-screen__slider__title,
+    .first-screen__slider__subtitle {
+        text-align: center;
+        margin-bottom: 10px;
+        width: 400px;
+        margin-left: -133px;
+    }
+
+    .first-screen__slider__subtitle {
+        padding: 0;
+        margin-bottom: 18px;
+    }
+
+    .first-screenslider__btn {
+        margin: 0 auto;
+    }
+}

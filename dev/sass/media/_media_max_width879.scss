@@ -1,0 +1,62 @@
+@media only screen and (max-width: 879.98px) {
+    .forms-man .forms-man__container {
+        width: 966px;
+        height: 815px;
+        margin: 0 auto;
+        padding-right: 203px;
+    }
+
+    .forms-man__container .forms-man__input {
+        width: 561px;
+        height: 56px;
+        padding: 19px 105px 18px 20px;
+        border-radius: 10px;
+        float: right;
+        margin-top: 3px;
+    }
+    .man-text {
+        min-width: 430px;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 126%;
+        color: #FFFFFF;
+        position: relative;
+        left: 22%;
+    }
+    .col-12.col-lg-6.checkbox-form__one {
+        margin-top: -28px;
+        margin-left: 155px;
+    }
+
+
+    .label-checkbox#checkbox-label {
+        position: absolute;
+        right: 814px;
+        bottom: 287px;
+        /* margin-left: 394px; */
+        margin-right: -156px;
+        margin-bottom: 2px;
+    }
+
+    .label-checkbox {
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 126%;
+        color: #FFFFFF;
+        display: inline-block;
+        position: absolute;
+        right: 702px;
+        bottom: 250px;
+        margin-right: -155px;
+    }
+    .photo-jpeg {
+        /* margin-right: -95px; */
+        margin-left: 163px;
+    }
+    button#btn-orange__forms {
+        margin-left: -3px;
+        /* margin-right: 166px; */
+        position: absolute;
+        right: 366px;
+    }
+}

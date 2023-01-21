@@ -1,2 +1,33 @@
-@media screen and (max-width: 1199px) {
-}
+    @media only screen and (max-width: 1399px) {
+        img.photo-man {
+            display: none;
+        }
+    }
+
+
+
+    @media only screen and (max-width: 1278.98px) {
+        .container.first-screen__container-titles {
+            margin-right: -82px;
+        }
+    }
+
+    @media only screen and (max-width: 1300.98px) {
+        .slider-dilivery {
+            max-width: 780px;
+        }
+    }
+
+    @media only screen and (max-width: 1289.98px) {
+        .slider-dilivery {
+            max-width: 780px;
+            margin: 0 auto;
+        }
+
+        .dilivery .slick-track {
+            opacity: 1;
+            width: 7364px;
+            transform: translate3d(-1162px, 0px, 0px);
+        }
+
+    }
